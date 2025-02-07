@@ -10,6 +10,7 @@ The goal of the project was to:
   
 ## Tasks Overview
 **Task 1: Data Preparation and Customer Analytics**
+
 Files: QVI_task1.ipynb
 Inputs: QVI_purchase_behaviour.csv, QVI_transaction_data.xlsx
 
@@ -26,6 +27,7 @@ Inputs: QVI_purchase_behaviour.csv, QVI_transaction_data.xlsx
 - Kettles chips and 175g packets are the most purchased across most segments.
   
 **Task 2: Experimentation and Uplift Testing**
+
 Files: QVI_task2.ipynb
 Input: QVI_data.csv
 
@@ -43,4 +45,5 @@ Trial and control store pairs:
 2. No significant changes were observed in store 88 during the trial.
    
 **Task 3: Analytics and Commercial Application**
+
 Output: A PowerPoint report summarizing key insights using the Pyramid Principle.
